@@ -1,0 +1,11 @@
+﻿{ "name": "ssh-bat",
+  "version": "0.0.1",
+  "author": "kavalla wang <kavalla@126.com>",
+  "description": "bat bat",
+  "engines": { "node": ">=0.8.7" },
+  "dependencies": {
+    "ssh2": "0.2.10"
+  },
+  "keywords": [ "ssh", "ssh2", "sftp", "secure", "shell", "exec", "remote", "client" ],
+  "repository" : { "type": "git", "url": "https://github.com/kavalla/ssh-bat.git" }
+}
