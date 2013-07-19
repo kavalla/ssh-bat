@@ -1,6 +1,7 @@
 ﻿{ "name": "ssh-bat",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": "kavalla wang <kavalla@126.com>",
+  "main": "./ssh",
   "description": "bat bat",
   "engines": { "node": ">=0.8.7" },
   "dependencies": {
